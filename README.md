@@ -16,3 +16,6 @@ Here are some ideas to get you started:
 -->
 I work as a front-end developer ✌️
 I have been creating lots of websites since I started and I love developing beautiful designs👌
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=Gmail&logoColor=red)]
